@@ -1,1 +1,3 @@
-# Laborat-rio-de-Algoritmia-II
+# Laboratorio-de-Algoritmia-II
+
+Cadeira baseada em Python
